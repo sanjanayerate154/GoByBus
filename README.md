@@ -29,7 +29,4 @@ Efficient route management for optimal travel planning.
 Alerts and notifications for important updates and changes.
 Communication features for direct contact with the bus administration.
 
-Prerequisites
-Flutter SDK
-Google Maps API key
-Firebase or any other backend service for user authentication and data storage
+
